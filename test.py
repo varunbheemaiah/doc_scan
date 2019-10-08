@@ -23,8 +23,8 @@ class ButtonGrid(GridLayout):
         
         #--------TITLE LABEL--------#
         
-        self.title = Label(text="*company name*")
-        self.add_widget(self.title)
+        #self.title = Label(text="Follow @thiru.jpg")
+        #self.add_widget(self.title)
         
         #--------InteriorGridLayout Begins--------#
         
